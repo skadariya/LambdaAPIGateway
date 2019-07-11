@@ -5,9 +5,10 @@ This application use Lambda to expose our repeated-word-in-sentence functionalit
 
 ## Instructions to invoke the API:
 > query paratmere is "book"
+
 > After the slash "?book=" USER'S QUERY STRING "
 
-> Coming soon
+
 
 ## Link to the deployed site: 
 > https://oxdd14tqg4.execute-api.us-west-2.amazonaws.com/findFirstRepeatedWord/
