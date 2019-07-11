@@ -11,7 +11,7 @@ This application use Lambda to expose our repeated-word-in-sentence functionalit
 > Coming Soon
 
 
-## Referemnces:
+## References:
  
 
 ## Feature Tasks
