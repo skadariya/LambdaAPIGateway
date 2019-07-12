@@ -16,8 +16,8 @@ This application use Lambda to expose our repeated-word-in-sentence functionalit
 > https://oxdd14tqg4.execute-api.us-west-2.amazonaws.com/findFirstRepeatedWord/
 
 
-## References:
- 
+## Lamdba Warmer:
+> [Lambda Warmer](https://github.com/skadariya/LambdaAPIGateway/blob/master/Lambda_Warmer/LambdaWarmer_ReadMe.md)
 
 ## Feature Tasks
 
